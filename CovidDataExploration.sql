@@ -217,7 +217,7 @@ as
     where dea.continent is not null
 GO
 
-select
+Select
     *
 from
     PercentPopulationVaccinated
